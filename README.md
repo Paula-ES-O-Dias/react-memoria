@@ -1,5 +1,7 @@
 # Jogo da Memória
 
+Este projeto foi feito em aula do curso B7Web.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
